@@ -1,0 +1,11 @@
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\bin\Debug\Splash Screen.exe.config
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\bin\Debug\Splash Screen.exe
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\bin\Debug\Splash Screen.pdb
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash Screen.csprojResolveAssemblyReference.cache
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash_Screen.FrmSplashScreen.resources
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash_Screen.MainForm.resources
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash Screen.csproj.GenerateResource.Cache
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash Screen.exe
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash Screen.pdb
+D:\Ianitsa\Tests\Splash Screen App\Splash Screen\obj\Debug\Splash_Screen.FormSplashScreen2.resources
