@@ -1,0 +1,9 @@
+D:\Ianitsa\Tests\Calculator\Calc2\bin\Debug\Calc2.exe.config
+D:\Ianitsa\Tests\Calculator\Calc2\bin\Debug\Calc2.exe
+D:\Ianitsa\Tests\Calculator\Calc2\bin\Debug\Calc2.pdb
+D:\Ianitsa\Tests\Calculator\Calc2\obj\Debug\Calc2.csprojResolveAssemblyReference.cache
+D:\Ianitsa\Tests\Calculator\Calc2\obj\Debug\Calc2.Properties.Resources.resources
+D:\Ianitsa\Tests\Calculator\Calc2\obj\Debug\Calc2.csproj.GenerateResource.Cache
+D:\Ianitsa\Tests\Calculator\Calc2\obj\Debug\Calc2.exe
+D:\Ianitsa\Tests\Calculator\Calc2\obj\Debug\Calc2.pdb
+D:\Ianitsa\Tests\Calculator\Calc2\obj\Debug\Calc2.CalcFrm.resources
